@@ -1,4 +1,4 @@
-# random_compliment_generator
+# Speed Test API
 
 Simple API that will grab my internet speed data.
 
